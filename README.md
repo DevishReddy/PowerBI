@@ -5,10 +5,8 @@
 * OTIF was designed to improve store operations within Walmart itself and quickly  led to a series of major changes as it was quickly adopted by other retailers and  companies.The data about Orders, Salesperson, Customer and City is given.
 
 So, we have to ﬁnd
-1.The OTIF Performance over Time
 
-2.The Order delivery status over Time ?
-
-3.the Highest OTIF Performances
-
-4.Key Inﬂuencers
+      1.The OTIF Performance over Time
+      2.The Order delivery status over Time ?
+      3.the Highest OTIF Performances
+      4.Key Inﬂuencers
