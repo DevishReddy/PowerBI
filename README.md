@@ -6,6 +6,9 @@
 
 So, we have to ﬁnd
 1.The OTIF Performance over Time
+
 2.The Order delivery status over Time ?
+
 3.the Highest OTIF Performances
+
 4.Key Inﬂuencers
